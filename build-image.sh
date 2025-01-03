@@ -1,0 +1,1 @@
+mvn spring-boot:build-image -Dspring-boot.build-image.imageName=kennymarlo08/client-directory
