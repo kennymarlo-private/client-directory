@@ -554,15 +554,6 @@ video {
   display: none;
 }
 
-.mt-2 {
-  margin-top: 0.5rem;
-}
-
-.text-xl {
-  font-size: 1.25rem;
-  line-height: 1.75rem;
-}
-
 .my-header {
   margin-top: 1rem;
   margin-bottom: 1rem;

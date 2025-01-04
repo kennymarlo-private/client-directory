@@ -3,6 +3,9 @@ spring:
     name: Client Directory
   profiles:
     active: dev
+  sql:
+    init:
+      mode: always
 
 
 ---
